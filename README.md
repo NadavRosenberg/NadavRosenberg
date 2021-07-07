@@ -13,11 +13,12 @@
 ```javascript
 nadav() {
   const WHO_AM_I = {
-    code: [Javascript, Typescript, HTML, CSS, Python, Java, C],
-    platform: ['Angular'],
-    framework: ['Ionic', 'NestJS'],
+    language: [Javascript, Typescript, HTML, CSS, Python, Java, C],
+    platform: [Angular],
+    framework: [Ionic, NestJS],
+    database: ['PostgreSQL'],
     library: ['angular-material'],
-    tool: [TypeORM],
+    tool: ['TypeORM'],
     contact: this.LinkedIn()
   }
 }
