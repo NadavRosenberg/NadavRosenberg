@@ -1,4 +1,4 @@
-<h1> Hi, I'm Nadav Rosenberg! <img src="https://media.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif" width="70"></h1>
+<h1>Hi, I'm Nadav Rosenberg!<img src="https://media.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif" width="70"></h1>
 
 👋 Hi, I’m [@NadavRosenberg](https://github.com/NadavRosenberg)<br>
 🔍 I'm looking for my next challenge<br>
