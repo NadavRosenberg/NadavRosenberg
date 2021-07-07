@@ -1,0 +1,5 @@
+- 👋 Hi, I’m [@NadavRosenberg](https://github.com/NadavRosenberg)
+- 🔍 I'm looking for my next challenge
+- 👀 I’m interested in learning new technologies and to empower my skills
+- 🌱 I’m currently learning Computer Science and Cyber Security (B.Sc) with 1 semester till graduating
+- 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/nadav--rosenberg/)
