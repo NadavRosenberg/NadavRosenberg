@@ -1,6 +1,5 @@
 <h1>Hi, I'm Nadav Rosenberg!<img src="https://media.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif" width="70"></h1>
 
-👋 Hi, I’m [@NadavRosenberg](https://github.com/NadavRosenberg)<br>
 🔍 I'm looking for my next challenge<br>
 👀 I’m interested in learning new technologies and to empower my skills<br>
 🌱 I’m currently learning Computer Science and Cyber Security (B.Sc) with 1 semester till graduating<br>
