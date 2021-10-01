@@ -4,7 +4,8 @@
 👀 I’m interested in learning new technologies and to empower my skills<br>
 🌱 I’m currently learning Computer Science and Cyber Security (B.Sc) with 1 semester till graduating<br>
 
-[![Linkedin: nadavrosenberg](https://img.shields.io/badge/-nadavrosenberg-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/nadav--rosenberg/)
+[![Linkedin: NadavRosenberg](https://img.shields.io/badge/-NadavRosenberg-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nadav--rosenberg/)
+[![Postman: NadavRosenberg](https://img.shields.io/badge/-NadavRosenberg-orange?style=flat-square&logo=Postman&logoColor=white)](https://www.postman.com/NadavRosenberg)
 [![GitHub nadavrosenberg](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/NadavRosenberg/)
 
 ### <img src="https://media.giphy.com/media/LPkczVwUYcMbXsRCdP/giphy.gif" width="50"> A little more about me...  
