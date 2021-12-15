@@ -4,22 +4,23 @@
 👀 I’m interested in learning new technologies and to empower my skills<br>
 🌱 I’m currently learning Computer Science and Cyber Security (B.Sc) with 1 semester till graduating<br>
 
-[![Linkedin: NadavRosenberg](https://img.shields.io/badge/-NadavRosenberg-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nadav--rosenberg/)
-[![Postman: NadavRosenberg](https://img.shields.io/badge/-NadavRosenberg-orange?style=flat-square&logo=Postman&logoColor=white)](https://www.postman.com/NadavRosenberg)
-[![GitHub nadavrosenberg](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/NadavRosenberg/)
+[![Postman: NadavRosenberg](https://img.shields.io/badge/-Postman-orange?style=flat-square&logo=Postman&logoColor=white)](https://www.postman.com/NadavRosenberg)
+[![Linkedin: nadav--rosenberg](https://img.shields.io/badge/-nadav--rosenberg-blue?style=social&logo=Linkedin&logoColor=blue&label=linkedin)](https://www.linkedin.com/in/nadav--rosenberg/)
+[![GitHub: NadavRosenberg](https://img.shields.io/github/followers/thaiane?label=github&style=social)](https://github.com/NadavRosenberg/)
+[![Stackoverflow: nadav-rosenberg](https://img.shields.io/stackexchange/stackoverflow/r/11589183?style=social&logo=stackoverflow&logoColor=red&color=green&link=https%3A%2F%2Fstackoverflow.com%2Fusers%2F4498150%2Fnadav-rosenberg&label=Stackoverflow)](https://stackoverflow.com/users/4498150/nadav-rosenberg)
 
 ### <img src="https://media.giphy.com/media/LPkczVwUYcMbXsRCdP/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
 nadav() {
   const WHO_AM_I = {
-    language: [Javascript, Typescript, HTML, CSS, Python, Java, C],
+    language: [Javascript, Typescript, HTML, CSS, Python, Java, C, C#, C++],
     platform: [Angular],
-    framework: [Ionic, NestJS],
+    framework: ['Ionic', 'NestJS', '.Net Core'],
     database: ['PostgreSQL'],
-    library: ['angular-material'],
-    tool: ['TypeORM'],
-    contact: this.LinkedIn()
+    library: ['angular-material', 'react', 'styled-components'],
+    orm: ['TypeORM', 'Dapper'],
+    contact: this.LinkedIn(),
   }
 }
 
