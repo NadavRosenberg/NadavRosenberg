@@ -12,7 +12,7 @@
 ### <img src="https://media.giphy.com/media/LPkczVwUYcMbXsRCdP/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-nadav() {
+NadavRosenberg() {
   const WHO_AM_I = {
     language: [Javascript, Typescript, HTML, CSS, Python, Java, C, C#, C++],
     platform: [Angular],
